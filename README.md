@@ -20,6 +20,8 @@ Defina seu secret em forma de MD5 Hash (forma segura).
 
 ## Get Started
 
+$`npm install`
+
 $`npm start`
 
 Definido em package.json.
