@@ -11,6 +11,8 @@ Responsável por conectar com o MongoDB.
 - $`bcryptjs`
 Biblioteca para criptografar senhas.
 
+- $`jsonwebtoken`
+
 
 
 #### Referências de aprendizado:
