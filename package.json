@@ -1,0 +1,33 @@
+{
+  "name": "auth-study",
+  "version": "1.0.0",
+  "description": "estudos de autenticação jwt utilizando node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eusougz/auth-jwt.git"
+  },
+  "keywords": [
+    "auth",
+    "authentication",
+    "jwt",
+    "jsonwebtoken",
+    "jswnode"
+  ],
+  "author": "Guilherme Giacomin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eusougz/auth-jwt/issues"
+  },
+  "homepage": "https://github.com/eusougz/auth-jwt#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.14",
+    "nodemon": "^2.0.4"
+  }
+}
